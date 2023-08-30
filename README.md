@@ -3,10 +3,6 @@
 <h3 align="center">I am a curious individual who likes taking on challenges that will break the boundaries of existing technology. I am looking for an opportunity to showcase my skills and use them make an impact on the lives of millions of people. I have been part of projects where I joined as a complete novice and left as complete professional with in-depth knowledge and potential solution for most problems.</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avisinghal6&label=Profile%20views&color=0e75b6&style=flat" alt="avisinghal6" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avisinghal6" alt="avisinghal6" /></a> </p>
-
 - 🔭 I’m currently working on [My portfolio](https://avisinghal.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/avisinghal6](https://github.com/avisinghal6)
