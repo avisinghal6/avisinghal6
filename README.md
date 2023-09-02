@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)](https://avisinghal6.io)
+
 <h1 align="center">Hi 👋, I'm Avi Singhal</h1>
 <h3 align="center">I am a curious individual who likes taking on challenges that will break the boundaries of existing technology. I am looking for an opportunity to showcase my skills and use them make an impact on the lives of millions of people. I have been part of projects where I joined as a complete novice and left as complete professional with in-depth knowledge and potential solution for most problems.</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
